@@ -1,0 +1,51 @@
+.featcontainer{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.featleft{
+    width: 50%;
+}
+
+.featimage{
+    width: 50%;
+}
+
+.featright{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+}
+
+.feattitle{
+    font-size: 70px;
+}
+
+.featsubtitle{
+    font-size: 24px;
+    font-style: italic;
+    color: #333;
+    margin-top: 30px;
+}
+
+.featdesc{
+    font-size: 20px;
+    color: #777;
+    margin-top: 30px;
+    padding-right: 100px;
+}
+
+.featbutton{
+    width: 150px;
+    border: none;
+    padding : 15px 20px;
+    background-color: #4042e2;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top : 20px;
+}

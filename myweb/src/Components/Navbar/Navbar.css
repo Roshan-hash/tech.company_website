@@ -1,0 +1,56 @@
+.Container{
+    height: 50px;
+    position: sticky;
+}
+
+.Wrapper{
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Left{
+    width: 60%;
+    display: flex;
+}
+
+.Logo{
+    margin-left: 40px;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: underline red;
+}
+
+.Menu{
+    display: flex;
+    list-style: none; 
+    margin-left: 30%;
+    align-items: center;
+}
+
+.Menuitem{
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: grey !important;
+    cursor: pointer;
+    text-decoration: none !important;
+    text-decoration-line: none !important;
+}
+
+.Menuitem a{
+    color: #4042e2;
+}
+
+.Button{
+    margin-right: 30px;
+    border: 2px solid white;
+padding: 10px 20px;
+background-color: #4042e2;
+color: white;
+font-weight: bold;
+border-radius: 10px;
+cursor: pointer;
+text-decoration: none;
+}

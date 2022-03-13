@@ -1,0 +1,123 @@
+.choosecontainer{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.chooseleft{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chooseimage{
+    width: 100%;
+}
+
+.chooseright{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+}
+
+.choosetitle{
+    font-size: 70px;
+}
+
+.choosesubtitle{
+    font-size: 24px;
+    font-style: italic;
+    color: #333;
+    margin-top: 30px;
+}
+
+.choosedesc{
+    font-size: 20px;
+    color: #777;
+    margin-top: 30px;
+    padding-right: 100px;
+}
+
+.choosebutton{
+    width: 150px;
+    border: none;
+    padding : 15px 20px;
+    background-color: darkblue;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top : 20px;
+}
+
+.intro-left-wrapper{
+    padding: 50px;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.intro-introduce{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.intro-name{
+    font-size: 60px;
+}
+
+.intro-title{
+    height: 50px;
+    overflow: hidden;
+}
+
+.intro-title-item{
+    height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #4042e2;
+    display: flex;
+    align-items: center;
+}
+
+.intro-title-wrapper{
+   height: 100%;
+   animation: move 15s ease-in-out infinite alternate; 
+}
+
+@keyframes move {
+    10% {
+        transform: translateY(-50px);
+    }
+    20% {
+        transform: translateY(-100px);
+    }
+    30% {
+        transform: translateY(-150px);
+    }
+    40% {
+        transform: translateY(-200px);
+    }
+    50% {
+        transform: translateY(-250px);
+    }
+    60% {
+        transform: translateY(-300px);
+    }
+    70% {
+        transform: translateY(-350px);
+    }
+    80% {
+        transform: translateY(-400px);
+    }
+    90% {
+        transform: translateY(-450px);
+    }
+    100% {
+        transform: translateY(-500px);
+    }
+}
