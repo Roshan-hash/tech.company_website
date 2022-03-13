@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tech.company_website/static/css/main.3a1a005f.css",
+    "main.js": "/tech.company_website/static/js/main.c0e6b3b8.js",
+    "static/media/Siteimage_2.jpg": "/tech.company_website/static/media/Siteimage_2.4215b763c30ebd9e415e.jpg",
+    "static/media/siteimage_6.jpg": "/tech.company_website/static/media/siteimage_6.a01562723dca88ebc37e.jpg",
+    "static/media/siteimage_5.jpg": "/tech.company_website/static/media/siteimage_5.49e4da18756cfc771c8e.jpg",
+    "static/media/siteimage_7.jpg": "/tech.company_website/static/media/siteimage_7.7ae14ea5da203b93fee7.jpg",
+    "static/media/siteimage_1.jpg": "/tech.company_website/static/media/siteimage_1.ce0f6d753111b1769d0f.jpg",
+    "static/media/target.png": "/tech.company_website/static/media/target.6b4bf4e52e2cdf95b23c.png",
+    "static/media/plane.png": "/tech.company_website/static/media/plane.36b48bbcf95d40bb986c.png",
+    "static/media/grow.png": "/tech.company_website/static/media/grow.19bfcfe371a67bc6e321.png",
+    "static/media/contact.png": "/tech.company_website/static/media/contact.6e1d20bff4c49455b9eb.png",
+    "static/media/ecommerce.png": "/tech.company_website/static/media/ecommerce.0cc3deeeb21d69595b28.png",
+    "static/media/siteimage_4.jpg": "/tech.company_website/static/media/siteimage_4.32622686229af2ec2e13.jpg",
+    "static/media/support.png": "/tech.company_website/static/media/support.bcad22da7b0d84db30a6.png",
+    "static/media/teamwork.png": "/tech.company_website/static/media/teamwork.472802b7f0b0b898acab.png",
+    "static/media/seo.png": "/tech.company_website/static/media/seo.d0890ad61b41f5ec5516.png",
+    "static/media/shopping.png": "/tech.company_website/static/media/shopping.0feb97a34e43765929ec.png",
+    "static/media/ux.png": "/tech.company_website/static/media/ux.ffa3e0dd754dc923e50b.png",
+    "static/media/web-design.png": "/tech.company_website/static/media/web-design.59dd30b0e72e9187902b.png",
+    "index.html": "/tech.company_website/index.html",
+    "main.3a1a005f.css.map": "/tech.company_website/static/css/main.3a1a005f.css.map",
+    "main.c0e6b3b8.js.map": "/tech.company_website/static/js/main.c0e6b3b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a1a005f.css",
+    "static/js/main.c0e6b3b8.js"
+  ]
+}
